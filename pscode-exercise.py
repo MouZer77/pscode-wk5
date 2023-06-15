@@ -22,11 +22,14 @@
 # Print var
 #
 # Exercise 2:
+
 # Request input number for JUDGMENT!
 # Write IF statement
 # If the remainder of number is 0, print Even
 # ELSE print Odd
+#
 # Exercise 3:
+
 # A.) Var 1 = Request input for for 5 number
 #
 # B.) Var 2 = var 1 added together
